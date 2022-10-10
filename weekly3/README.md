@@ -41,7 +41,7 @@ _Because I minted the tokens after the refrence block my voting power is 0._
 ## Cast Votes
 
 ```sh
-yarn hardhat run scripts/GetVotes.ts --network goerli
+yarn hardhat run scripts/GiveVotes.ts --network goerli
 ```
 
 TX: https://goerli.etherscan.io/tx/0x23635574006b98ea2b2e5c538ffb9299426d74ee05a1c2f9010292a50bd98446
