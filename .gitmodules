@@ -1,0 +1,6 @@
+[submodule "weekly2"]
+	path = weekly2
+	url = https://github.com/sokmesakhiev/ballot
+[submodule "weekly3/tokenized_ballot"]
+	path = weekly3/tokenized_ballot
+	url = git@github.com:sokmesakhiev/tokenized_ballot.git
